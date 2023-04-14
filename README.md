@@ -1,4 +1,4 @@
-## 5/50 projects (html, css, js)
+## 6/50 projects (html, css, js)
 
 <!-- [Menu of projects](https://svmed2050.github.io/50-projects-js) -->
 
@@ -9,3 +9,4 @@
 | 03    | [Rotating Navigation](https://github.com/svmed2050/50-projects-js/tree/main/03-rotating-navigation) | [Live Demo](https://svmed2050.github.io/50-projects-js/03-rotating-navigation/index.html) |
 | 04    | [Hidden Search](https://github.com/svmed2050/50-projects-js/tree/main/04-hidden-search)             | [Live Demo](https://svmed2050.github.io/50-projects-js/04-hidden-search/index.html)       |
 | 05    | [Blurry Loading](https://github.com/svmed2050/50-projects-js/tree/main/05-blurry-loading)           | [Live Demo](https://svmed2050.github.io/50-projects-js/05-blurry-loading/index.html)      |
+| 06    | [Scroll Animation](https://github.com/svmed2050/50-projects-js/tree/main/06-scroll-animation)       | [Live Demo](https://svmed2050.github.io/50-projects-js/06-scroll-animation/index.html)    |
