@@ -1,4 +1,4 @@
-## 8/50 projects (html, css, js)
+## 9/50 projects (html, css, js)
 
 <!-- [Menu of projects](https://svmed2050.github.io/50-projects-js) -->
 
@@ -12,3 +12,4 @@
 | 06    | [Scroll Animation](https://github.com/svmed2050/50-projects-js/tree/main/06-scroll-animation)       | [Live Demo](https://svmed2050.github.io/50-projects-js/06-scroll-animation/index.html)    |
 | 07    | [Split Landing Page](https://github.com/svmed2050/50-projects-js/tree/main/07-split-landing-page)   | [Live Demo](https://svmed2050.github.io/50-projects-js/07-split-landing-page/index.html)  |
 | 08    | [Form Input Wave](https://github.com/svmed2050/50-projects-js/tree/main/08-form-input-wave)         | [Live Demo](https://svmed2050.github.io/50-projects-js/08-form-input-wave/index.html)     |
+| 09    | [Sound Board](https://github.com/svmed2050/50-projects-js/tree/main/09-sound-board)                 | [Live Demo](https://svmed2050.github.io/50-projects-js/09-sound-board/index.html)         |
