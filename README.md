@@ -14,3 +14,4 @@
 | 08    | [Form Input Wave](https://github.com/svmed2050/50-projects-js/tree/main/08-form-input-wave)         | [Live Demo](https://svmed2050.github.io/50-projects-js/08-form-input-wave/index.html)     |
 | 09    | [Sound Board](https://github.com/svmed2050/50-projects-js/tree/main/09-sound-board)                 | [Live Demo](https://svmed2050.github.io/50-projects-js/09-sound-board/index.html)         |
 | 10    | [Dad Jokes](https://github.com/svmed2050/50-projects-js/tree/main/10-dad-jokes)                     | [Live Demo](https://svmed2050.github.io/50-projects-js/10-dad-jokes/index.html)           |
+| 11    | [Event KeyCodes](https://github.com/svmed2050/50-projects-js/tree/main/11-event-key-codes)          | [Live Demo](https://svmed2050.github.io/50-projects-js/11-event-key-codes/index.html)     |
